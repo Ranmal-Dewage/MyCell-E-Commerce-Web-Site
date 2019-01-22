@@ -1,0 +1,137 @@
+.cartbox{
+	display:flex;
+	padding-left: 10%;
+	padding-right: 10%;
+		}
+.box1{
+	background-color: #e7e8ed;
+	border: solid gray 1px;
+	width: 70%;
+	padding: 10px;
+	color: #1d1d1d
+		}
+.flex{
+	display: flex;
+}
+.box2{
+	background-color: #e7e8ed;
+	border: solid gray 1px;
+	width: 30%;
+	margin-left: 10px;
+	padding: 10px;
+	height: 275px;
+	color: #1d1d1d;
+}
+.formbox{
+	width:50%;
+}
+.canbutton{
+	color: #ededed;
+	border: 1px solid black;
+	cursor: pointer;
+	background-color:#de2121;
+	width:80px;
+	height:40px;
+	border-radius: 10px;
+}
+.dbutton{
+	color: white;
+	background-color: #0654ba;
+	width:80px;
+	height:40px;
+	border-radius: 10px;
+}
+.table1{
+	padding-left: 100px;
+}
+.table2{
+	padding-left: 40px;
+}
+#end1{
+	background-image: url('../HomePage/background4.jpg');
+	background-size: 100% 100%;
+	padding-bottom: 20px;
+	box-shadow: 1px 10px 20px #000000;
+	margin-left: 10%;
+	margin-right: 10%;
+	color:#000600;
+}
+.paybutton{
+	padding-top: 15px;
+	color: #ececec;
+	background-color: #0797C1;
+	display: inline-block;
+	border-color:1px solid black;
+	width: 90%;
+	height: 50px;
+	font-size: 20px;
+	border-radius: 10px;
+}
+.confirmPay{
+	color: #ececec;
+	cursor:pointer;
+	border: 1px solid black;
+	background-color: #0797C1;
+	width: 90%;
+	height: 50px;
+	font-size: 20px;
+	border-radius: 10px;
+}
+.link{
+	text-decoration: none;
+}
+a.bottomlinks2:link, a.bottomlinks2:visited{
+	color:#000600;
+}
+a.bottomlinks2:hover{
+	color: #dcdcde;
+	text-decoration: underline;
+}
+a.foot{
+	text-decoration:none;
+}
+a.foot:link{
+	color:blue;
+}
+a.foot:visited{
+	color:blue;
+}
+a.foot:hover{
+	color:purple;
+}
+a.remove:link{
+	color:#2f20eb;
+}
+a.remove:visited{
+	color:#2f20eb;
+}
+a.remove:hover{
+	color:#e11212;
+}
+a.continue:link{
+	color:#2c1ee9;
+}
+a.continue:visited{
+	color:#2c1ee9;
+}
+a.continue:hover{
+	color:#0d00bf;
+	text-shadow: 1px 1px 1px #4a3ee7
+}
+a.paybutton:hover{
+	box-shadow: 1px 6px 8px #000000;
+	color: #e4e4e4;
+}
+.canbutton:hover{
+	box-shadow: 1px 6px 8px #000000;
+}
+.confirmPay:hover{
+	box-shadow: 1px 6px 8px #000000;
+}
+.contShopping{
+	padding-top: 20px;
+	color: blue;
+	width: 90%;
+	height: 50px;
+	font-size: 20px;
+}
