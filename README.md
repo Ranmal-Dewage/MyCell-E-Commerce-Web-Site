@@ -4,11 +4,20 @@ Developed using the technologies HTML 5, CSS, JavaScript, and PHP.
 
 ## Sample Pictures of Website
 
-<img src="https://i.ibb.co/JjDTD7n/Screenshot-31.png" alt="Screenshot-31" border="0">
+#### Home
+<img src="https://i.ibb.co/JjDTD7n/Screenshot-31.png" alt="Home" border="0">
 
-<img src="https://i.ibb.co/6BxWkWB/Screenshot-34.png" alt="Screenshot-34" border="0">
+#### Products
+<img src="https://i.ibb.co/6BxWkWB/Screenshot-34.png" alt="Products" border="0">
 
-<img src="https://i.ibb.co/Sts9w9K/Screenshot-35.png" alt="Screenshot-35" border="0">
+#### Phones
+<img src="https://i.ibb.co/Sts9w9K/Screenshot-35.png" alt="Phones" border="0">
+
+#### User Authentication
+<img src="https://i.ibb.co/8rfw8TF/Screenshot-37.png" alt="User Authentication" border="0">
+
+#### Shopping Cart
+<img src="https://i.ibb.co/m63qQm9/Screenshot-38.png" alt="Shopping Cart" border="0">
 
 
 Developed by ALPHA Team;
