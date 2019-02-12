@@ -6,6 +6,10 @@ Developed using the technologies HTML 5, CSS, JavaScript, and PHP.
 
 <img src="https://i.ibb.co/JjDTD7n/Screenshot-31.png" alt="Screenshot-31" border="0">
 
+<img src="https://i.ibb.co/6BxWkWB/Screenshot-34.png" alt="Screenshot-34" border="0">
+
+<img src="https://i.ibb.co/Sts9w9K/Screenshot-35.png" alt="Screenshot-35" border="0">
+
 
 Developed by ALPHA Team;
 * Ranmal Dewage
