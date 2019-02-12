@@ -4,7 +4,7 @@ Developed using the technologies HTML 5, CSS, JavaScript, and PHP.
 
 ## Sample Pictures of Website
 
-<img src="https://ibb.co/0yHLHMq" alt="image-1" width=500px height=250px>
+<img src="https://i.ibb.co/JjDTD7n/Screenshot-31.png" alt="Screenshot-31" border="0">
 
 
 Developed by ALPHA Team;
