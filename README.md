@@ -26,6 +26,6 @@ Developed by ALPHA Team;
 * Vimukthi Rajapaksha
 * Aravinda Kulasooriya
 
-To check out our website visit : https://mycellstore.000webhostapp.com
+To check out our website visit : https://mycell.000webhostapp.com
 
 Author:-Ranmal Dewage(ranmal.b.dewage@gmail.com)
