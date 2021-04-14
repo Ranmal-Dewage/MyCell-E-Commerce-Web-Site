@@ -28,4 +28,8 @@ Developed by ALPHA Team;
 
 To check out our website visit : https://mycell.000webhostapp.com
 
-Author:-Ranmal Dewage(ranmal.b.dewage@gmail.com)
+## Copyright
+
+(C) 2017 Ranmal Dewage (ranmal.b.dewage@gmail.com)
+<br>
+[ranmaldewage.wordpress.com](https://ranmaldewage.wordpress.com)
